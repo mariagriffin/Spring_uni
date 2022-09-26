@@ -1,4 +1,0 @@
-Hi All
-
-This is my HelloFile
-Hi All!
