@@ -5,11 +5,8 @@
 
 # GitHub slack connection
 Connected to Slack
-#Adding a change
-# Change by Umer
+#Adding a change for clickup
 
-
-MAKING A CHANGE #862kf60ye
 
 
 
