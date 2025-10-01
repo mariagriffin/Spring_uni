@@ -6,7 +6,6 @@
 # GitHub slack connection
 Connected to Slack
 
-Deleting text CU-47zbbbq
 
 
 
