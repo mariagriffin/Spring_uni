@@ -5,7 +5,9 @@
 
 # GitHub slack connection
 Connected to Slack
-#Adding a change for clickup
+
+Deleting text" 
+
 
 
 
