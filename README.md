@@ -1,8 +1,8 @@
-#This is a basic file
-## link changes to remote repo @ Maria's test Github repo
+## This is a basic markdown file, used for describing a Git Hub repository
 
-# GitHub slack connection
-Connected to Slack
+## You will clone this repository and create a branch using your student nyumber
+
+## See Tutorial on Cloning and Branching
 
 
 
