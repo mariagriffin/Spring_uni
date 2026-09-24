@@ -1,0 +1,5 @@
+This is my student file
+Name: Taniya Offergeld
+GitHub profile: https://github.com/Taniyeah
+Student number: L00205444
+Tutorial: Git clone and Push 
