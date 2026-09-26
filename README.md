@@ -1,19 +1,3 @@
-## Send me you github username
-## This is a basic markdown file, used for describing a Git Hub repository
+# Hello it's Me 
 
-## You will clone this repository and create a branch using your student nyumber
-
-## See Tutorial on Cloning and Branching
-
-
-
-
-
-
-
-
-
-
-
-
-
+# This is a simple README file for the git demo. It provides an overview of the git repository, its purpose, and how to get started.
