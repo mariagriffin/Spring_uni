@@ -1,0 +1,3 @@
+Patrick Affadu
+Student number: L00205569
+Practising Git clone and push.
