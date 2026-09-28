@@ -1,4 +1,4 @@
 # This is my student file
 # Name: Taniya Offergeld
-# Student number: L00205444
+# Student: L00205444
 # Tutorial: Git clone and Push 
