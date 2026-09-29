@@ -1,0 +1,7 @@
+This is my student file
+
+Sandy Gallagher
+
+L00205876
+
+Git Clone and Push
