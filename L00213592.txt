@@ -1,0 +1,4 @@
+# This is my student file
+# Name: Sasikala Varatharajan
+# Student: L00213592
+# Week 2 - Task 3: Git clone and Push 
